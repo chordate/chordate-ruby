@@ -1,0 +1,6 @@
+.idea
+.idea/*
+/.bundle
+*.rdb
+Gemfile.lock
+pkg/*
